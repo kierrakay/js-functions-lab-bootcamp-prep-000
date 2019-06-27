@@ -1,7 +1,7 @@
 function happyHolidays(string) {
 return "Happy holidays!"
 }
-function happyholdaysTo($name) {
+function happyHolidaysTo($name) {
   return "Happy Holidays, you!"
 }
 function happyHolidayTo($holiday, $name) {
